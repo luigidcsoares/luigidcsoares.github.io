@@ -1,22 +1,20 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Luigi
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: My personal homepage
 
 # Your name to show in the footer
-author: Some Person
+author: Luigi D. C. Soares
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "projects"
+  Education: "education"
+  Work: "work" 
 
 # --- Logo --- #
 
@@ -38,13 +36,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "luigidcsoares@gmail.com"
+# facebook: deanattali
+  github: luigidcsoares
+# twitter: daattali
+  rss: false
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: luigidcsoares
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -62,14 +60,14 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+# share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "luigidcsoares.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -80,7 +78,6 @@ excerpt_length: 50
 # --- Colours / background image --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
@@ -156,7 +153,7 @@ footer-link-col: "#404040"
 title-separator: "-"
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+# date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
@@ -165,7 +162,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
