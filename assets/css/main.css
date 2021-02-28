@@ -918,7 +918,28 @@ pre {
 }
 
 /* Custom CSS */
-a.icon {
+a.fa-icon {
     text-decoration: none;
-    color: #BB2020;
+    color: inherit;
+    margin: .12em;
+}
+
+a.fa-icon:hover, a.fa-icon:visited, a.fa-icon:active {
+    color: inherit;
+}
+
+.fa-youtube-colored {
+    color: #cc181e
+}
+
+.fa-github-colored {
+    color: #000
+}
+
+.fa-pdf-colored {
+    color: #ad0f14
+}
+
+.fa-tools-colored {
+    color: #477886
 }

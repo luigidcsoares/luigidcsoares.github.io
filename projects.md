@@ -15,12 +15,21 @@ memory addresses, in the same order, regardless of its inputs.
 This technique can be applied to functions with sensitive data to
 eliminate timing-based side channels.
 
-**[CGO 2021](https://conf.researchr.org/home/cgo-2021)**{: style="font-family: Courier New, Helvetica, monospace"}
-<a href="/publications/cgo21:lif.pdf" class="icon" target="_blank">
-    <span class="fas fa-file-pdf fa-2x"></span>
-</a> <a href="https://youtu.be/k_EMQibQxas" class="icon" target="_blank">
-    <span class="fab fa-youtube fa-2x"></span>
-</a> Luigi Soares and Fernando Magno Quintão Pereira.
-_Memory-Safe Elimination of Side Channels_
+**[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}  
+_Memory-Safe Elimination of Side Channels_ 
+<a href="/papers/cgo21:lif.pdf" target="_blank"
+    class="fa-icon" title="Paper">
+    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
+</a> <a href="https://youtu.be/k_EMQibQxas" target="_blank"
+    class="fa-icon" title="Presentation">
+    <span class="fab fa-youtube fa-lg fa-youtube-colored"></span>
+</a> <a href="https://github.com/lac-dcc/lif" target="_blank" 
+    class="fa-icon" title="Source Code">
+    <span class="fab fa-github fa-lg fa-github-colored"></span>
+</a> <a href="http://cuda.dcc.ufmg.br/lif/" target="_blank" 
+    class="fa-icon" title="Online Tool">
+    <span class="fas fa-tools fa-lg fa-tools-colored"></span>
+</a> 
+
 
 ---
