@@ -17,7 +17,7 @@ eliminate timing-based side channels.
 
 **[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
-<a href="/papers/cgo21:lif.pdf" target="_blank"
+<a href="/papers/cgo21-lif.pdf" target="_blank"
     class="fa-icon" title="Paper">
     <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
 </a> <a href="https://youtu.be/k_EMQibQxas" target="_blank"
