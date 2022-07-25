@@ -45,6 +45,9 @@ _Memory-Safe Elimination of Side Channels_
 
 ### Escape Analysis
 
+Escape analysis refers to a compile-time approach that simply establishes
+whether an object can be stack-allocated or not. An object is said to escape
+from a function or procedure _m_ if its lifetime exceeds the lifetime of _m_.
 We implemented an Escape Analysis on top of Go’s SSA intermediate
 representation, as an extension of Go’s existing Escape Analysis.  We tested our
 implementation against four real benchmarks and we obtained an average speedup
