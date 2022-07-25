@@ -24,6 +24,7 @@ prototype on top of LLVM. Lif extends previous work in non-trivial ways: it can
 handle programs with unbounded loops and does not require runtime information.
 
 **[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
+_Memory-Safe Elimination of Side Channels_ 
 <a href="/papers/ufmg-msc.pdf" target="_blank"
     class="fa-icon" title="Paper">
     <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
