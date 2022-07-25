@@ -5,7 +5,17 @@ title: Education
 
 ---
 
-### Master's Degree in Computer Science (2020 ~ Now)
+### PhD in Computer Science (2022 ~ Now)
+**[Institution]**{: style="font-family: Courier New, Helvetica, monospace"}  
+Federal University of Minas Gerais (UFMG)  
+**[Where]**{: style="font-family: Courier New, Helvetica, monospace"}  
+Belo Horizonte, Minas Gerais - Brazil  
+**[Advisor]**{: style="font-family: Courier New, Helvetica, monospace"}  
+Mário Sérgio Ferreira Alvim Júnior  
+
+---
+
+### Master's Degree in Computer Science (2020 ~ 2022)
 **[Institution]**{: style="font-family: Courier New, Helvetica, monospace"}  
 Federal University of Minas Gerais (UFMG)  
 **[Where]**{: style="font-family: Courier New, Helvetica, monospace"}  
