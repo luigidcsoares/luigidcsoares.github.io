@@ -13,7 +13,7 @@ $$ \hookrightarrow $$ 07/2022 ~ Now
 **Temporary Lecturer: Computer Programming (DCC001/DCC208)**{: style="font-family: Courier New, Helvetica, monospace"}  
 $$ \hookrightarrow $$ 07/2022 ~ 10/2022  
 
-**Teaching Assistant: Writing Programs in Python (http://curso-python.dcc.ufmg.br/)**{: style="font-family: Courier New, Helvetica, monospace"}  
+**Teaching Assistant: Writing Programs in Python ([see webpage](http://curso-python.dcc.ufmg.br/))**{: style="font-family: Courier New, Helvetica, monospace"}  
 $$ \hookrightarrow $$ 11/2021
 
 ---

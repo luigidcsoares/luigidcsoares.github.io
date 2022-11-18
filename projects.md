@@ -5,6 +5,30 @@ title: Projects
 
 ---
 
+### QIF - Operational Significance
+
+There are emerging needs in quantitative theories of information flow
+to assess privacy. Until recently, the consensus was that quantitative
+information flow should be founded on the concepts of Shannon
+Entropy and its related measures. Geoffrey Smith showed, in 2009,
+that Shannon Entropy and Mutual Information do a poor job in
+characterizing confidentiality. The truth is that Shannon's work was
+not devised in the context of privacy, but rather for communication.
+This shows the importance of understanding the operational
+significance of the measures that we choose. Yet, till these days
+people continue to adopt measures indiscriminately, without reasoning
+about the meaning of such measures and without providing explanation
+on why such measures are good in the contexts they are being applied.
+In this project, we explore case studies that show the failure of some
+measures when applied in the context of privacy, to demonstrate and
+reinforce the importance of understanding a measure's operational
+interpretation.  One example is PIF, a framework designed to assess
+the risk of individuals in a dataset, which adopts, among other
+measures, KL divergence. We show that PIF potentially leads to wrong
+(possibly dangerous) conclusions.
+
+---
+
 ### Lif 
 <a href="https://github.com/lac-dcc/lif" target="_blank" 
     class="fa-icon" title="Source Code">
