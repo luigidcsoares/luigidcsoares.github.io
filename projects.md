@@ -22,10 +22,7 @@ on why such measures are good in the contexts they are being applied.
 In this project, we explore case studies that show the failure of some
 measures when applied in the context of privacy, to demonstrate and
 reinforce the importance of understanding a measure's operational
-interpretation.  One example is PIF, a framework designed to assess
-the risk of individuals in a dataset, which adopts, among other
-measures, KL divergence. We show that PIF potentially leads to wrong
-(possibly dangerous) conclusions.
+interpretation.
 
 ---
 
