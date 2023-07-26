@@ -81,7 +81,7 @@ representation, as an extension of Go’s existing Escape Analysis.  We tested o
 implementation against four real benchmarks and we obtained an average speedup
 of 1.3%, with the highest speedup being 3.4%.
 
-**[Bachelor's Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
+**[Bachelor's Thesis]**{: style="font-family: Courier New, Helvetica, monospace"} 
 _Escape Analysis for Static Single Assignment Form_ 
 <a href="/papers/pucmg-escape.pdf" target="_blank"
     class="fa-icon" title="Paper">
