@@ -44,19 +44,26 @@ divergent branches, to the context of side-channel resistance. We developed a
 prototype on top of LLVM. Lif extends previous work in non-trivial ways: it can
 handle programs with unbounded loops and does not require runtime information.
 
-**[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
+**[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"} 
 _Memory-Safe Elimination of Side Channels_ 
 <a href="/papers/ufmg-msc.pdf" target="_blank"
-    class="fa-icon" title="Paper">
+    class="fa-icon" title="MSc Thesis">
     <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
 </a> <a href="https://youtu.be/ZB5QoPhSaBU" target="_blank"
     class="fa-icon" title="Presentation">
     <span class="fab fa-youtube fa-lg fa-youtube-colored"></span>
 
-**[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}  
+**[TOPLAS]**{: style="font-family: Courier New, Helvetica, monospace"} 
+_Side-channel Elimination via Partial Control-flow Linearization_ 
+<a href="https://dl.acm.org/doi/10.1145/3594736?cid=99659884520" target="_blank"
+   class="fa-icon" title="TOPLAS Paper">
+   <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
+</a>
+
+**[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}   
 _Memory-Safe Elimination of Side Channels_ 
 <a href="/papers/cgo21-lif.pdf" target="_blank"
-    class="fa-icon" title="Paper">
+    class="fa-icon" title="CGO 2021 Paper">
     <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
 </a> <a href="https://youtu.be/k_EMQibQxas" target="_blank"
     class="fa-icon" title="Presentation">
