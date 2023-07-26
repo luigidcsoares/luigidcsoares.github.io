@@ -44,7 +44,7 @@ divergent branches, to the context of side-channel resistance. We developed a
 prototype on top of LLVM. Lif extends previous work in non-trivial ways: it can
 handle programs with unbounded loops and does not require runtime information.
 
-**[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"} 
+**[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
 <a href="/papers/ufmg-msc.pdf" target="_blank"
     class="fa-icon" title="MSc Thesis">
@@ -53,14 +53,14 @@ _Memory-Safe Elimination of Side Channels_
     class="fa-icon" title="Presentation">
     <span class="fab fa-youtube fa-lg fa-youtube-colored"></span>
 
-**[TOPLAS]**{: style="font-family: Courier New, Helvetica, monospace"} 
+**[TOPLAS]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Side-channel Elimination via Partial Control-flow Linearization_ 
 <a href="https://dl.acm.org/doi/10.1145/3594736?cid=99659884520" target="_blank"
    class="fa-icon" title="TOPLAS Paper">
    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
 </a>
 
-**[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}   
+**[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
 <a href="/papers/cgo21-lif.pdf" target="_blank"
     class="fa-icon" title="CGO 2021 Paper">
@@ -81,7 +81,7 @@ representation, as an extension of Go’s existing Escape Analysis.  We tested o
 implementation against four real benchmarks and we obtained an average speedup
 of 1.3%, with the highest speedup being 3.4%.
 
-**[Bachelor's Thesis]**{: style="font-family: Courier New, Helvetica, monospace"} 
+**[Bachelor's Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Escape Analysis for Static Single Assignment Form_ 
 <a href="/papers/pucmg-escape.pdf" target="_blank"
     class="fa-icon" title="Paper">
