@@ -53,6 +53,13 @@ _Memory-Safe Elimination of Side Channels_
     class="fa-icon" title="Presentation">
     <span class="fab fa-youtube fa-lg fa-youtube-colored"></span>
 
+**[CTD]**{: style="font-family: Courier New, Helvetica, monospace"}  
+_Memory-Safe Elimination of Side Channels_ 
+<a href="https://sol.sbc.org.br/index.php/ctd/article/view/2485" target="_blank"
+    class="fa-icon" title="CTD">
+    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
+</a>
+
 **[TOPLAS]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Side-channel Elimination via Partial Control-flow Linearization_ 
 <a href="https://dl.acm.org/doi/10.1145/3594736?cid=99659884520" target="_blank"
