@@ -51,6 +51,13 @@ _Side-channel Elimination via Partial Control-flow Linearization_
    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
 </a>
 
+**[CTD]**{: style="font-family: Courier New, Helvetica, monospace"}  
+_Memory-Safe Elimination of Side Channels_ 
+<a href="https://sol.sbc.org.br/index.php/ctd/article/view/2485" target="_blank"
+    class="fa-icon" title="CTD">
+    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
+</a>
+
 **[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
 <a href="/papers/ufmg-msc.pdf" target="_blank"
@@ -59,13 +66,6 @@ _Memory-Safe Elimination of Side Channels_
 </a> <a href="https://youtu.be/ZB5QoPhSaBU" target="_blank"
     class="fa-icon" title="Presentation">
     <span class="fab fa-youtube fa-lg fa-youtube-colored"></span>
-
-**[CTD]**{: style="font-family: Courier New, Helvetica, monospace"}  
-_Memory-Safe Elimination of Side Channels_ 
-<a href="https://sol.sbc.org.br/index.php/ctd/article/view/2485" target="_blank"
-    class="fa-icon" title="CTD">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
-</a>
 
 **[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
