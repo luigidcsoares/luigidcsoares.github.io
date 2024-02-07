@@ -53,7 +53,7 @@ _Side-channel Elimination via Partial Control-flow Linearization_
 
 **[CTD]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
-<a href="https://sol.sbc.org.br/index.php/ctd/article/view/2485" target="_blank"
+<a href="https://sol.sbc.org.br/index.php/ctd/article/view/24856" target="_blank"
     class="fa-icon" title="CTD">
     <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
 </a>
