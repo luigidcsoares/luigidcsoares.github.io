@@ -7,13 +7,13 @@ title: Work Experiences
 
 ### UFMG
 
-**Temporary Lecturer: Software Programming and Development II (DCC204)**{: style="font-family: Courier New, Helvetica, monospace"}  
+**Temporary Lecturer: Software Development II (DCC204)**{: style="font-family: Courier New, Helvetica, monospace"}  
 $$ \hookrightarrow $$ 03/2023 ~ 12/2023 ([see lecture notes](https://github.com/luigidcsoares/teaching-dcc204-pds2))  
 
 **Temporary Lecturer: Computer Programming (DCC001/DCC208)**{: style="font-family: Courier New, Helvetica, monospace"}  
 $$ \hookrightarrow $$ 07/2022 ~ 07/2023
 
-**Temporary Lecturer: Software Programming and Development I (DCC203)**{: style="font-family: Courier New, Helvetica, monospace"}  
+**Temporary Lecturer: Software Development I (DCC203)**{: style="font-family: Courier New, Helvetica, monospace"}  
 $$ \hookrightarrow $$ 07/2022 ~ 12/2022  
 
 **Teaching Assistant: Writing Programs in Python ([see webpage](http://curso-python.dcc.ufmg.br/))**{: style="font-family: Courier New, Helvetica, monospace"}  
