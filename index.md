@@ -5,7 +5,7 @@ subtitle: Hi there,
 ---
 
 
-I'm a cotutelle PhD candidate student in Computer Science @
+I'm a cotutelle PhD candidate in Computer Science @
 [UFMG](https://ppgcc.dcc.ufmg.br) and [Macquarie
 University](https://www.mq.edu.au/), under the supervision of professors
 [Mário S. Alvim](https://homepages.dcc.ufmg.br/~msalvim/) and [Natasha
