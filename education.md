@@ -5,6 +5,16 @@ title: Education
 
 ---
 
+### PhD in Computer Science (2023 ~ Now)
+**[Institution]**{: style="font-family: Courier New, Helvetica, monospace"}  
+Macquarie University (MQU)
+**[Where]**{: style="font-family: Courier New, Helvetica, monospace"}  
+Sydney, New South Wales - Australia
+**[Advisor]**{: style="font-family: Courier New, Helvetica, monospace"}  
+Natasha Fernandes 
+
+---
+
 ### PhD in Computer Science (2022 ~ Now)
 **[Institution]**{: style="font-family: Courier New, Helvetica, monospace"}  
 Federal University of Minas Gerais (UFMG)  
