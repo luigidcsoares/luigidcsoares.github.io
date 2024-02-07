@@ -7,11 +7,11 @@ title: Education
 
 ### PhD in Computer Science (2023 ~ Now)
 **[Institution]**{: style="font-family: Courier New, Helvetica, monospace"}  
-Macquarie University (MQU)
+Macquarie University (MQU)  
 **[Where]**{: style="font-family: Courier New, Helvetica, monospace"}  
-Sydney, New South Wales - Australia
+Sydney, New South Wales - Australia  
 **[Advisor]**{: style="font-family: Courier New, Helvetica, monospace"}  
-Natasha Fernandes 
+Natasha Fernandes   
 
 ---
 
