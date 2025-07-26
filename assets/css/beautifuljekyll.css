@@ -17,6 +17,7 @@ layout: null
   --footer-text-col: {{ site.footer-text-col | default: "#777777" }};
   --footer-link-col: {{ site.footer-link-col | default: "#404040" }};
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
+  --rules-col: {{ site.rules-col | default: "#0000001a" }};
 
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
@@ -1125,7 +1126,7 @@ pre {
   }
 }
 
-/* Custom CSS */
+/* --- Custom CSS --- */
 a.fa-icon {
     text-decoration: none;
     color: inherit;
@@ -1150,4 +1151,8 @@ a.fa-icon:hover, a.fa-icon:visited, a.fa-icon:active {
 
 .fa-tools-colored {
     color: #477886
+}
+
+hr {
+  border-top: 1px solid var(--rules-col);
 }

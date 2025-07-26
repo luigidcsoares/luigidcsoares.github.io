@@ -133,20 +133,20 @@ navbar-var-length: false
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-# navbar-col: "#F5F5F5"
-# navbar-text-col: "#404040"
-# navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+# This theme is based on Catppuccin Frappé, following the style guide: 
+# https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md
+page-col: "#303446" # Base
+text-col: "#c6d0f5" # Text
+link-col: "#8caaee" # Blue
+hover-col: "#99d1db" # Sky
+navbar-col: "#232634" # Crust
+navbar-border-col: "#232634" # Crust, no border
+navbar-text-col: "#c6d0f5" # Text
+footer-col: "#232634" # Crust
+footer-link-col: "#c6d0f5" # Text
+footer-hover-col: "#99d1db" # Sky
+footer-text-col: "#838ba7" # Overlay 1
+rules-col: "#414559" # Surface 0
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
