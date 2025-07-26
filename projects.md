@@ -27,12 +27,12 @@ interpretation.
 ---
 
 ### Lif 
-<a href="https://github.com/lac-dcc/lif" target="_blank" 
+<a href="https://github.com/lac-dcc/lif" 
     class="fa-icon" title="Source Code">
-    <span class="fab fa-github fa-lg"></span>
-</a> <a href="http://cuda.dcc.ufmg.br/lif/" target="_blank" 
+    <span class="fab fa-github fa-lg" aria-hidden="true"></span>
+</a> <a href="http://cuda.dcc.ufmg.br/lif/"
     class="fa-icon" title="Online Tool">
-    <span class="fas fa-tools fa-lg"></span>
+    <span class="fas fa-tools fa-lg" aria-hidden="true"></span>
 </a> 
 
 A program is said to be isochronous if its running time does not depend on
@@ -46,35 +46,46 @@ handle programs with unbounded loops and does not require runtime information.
 
 **[TOPLAS]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Side-channel Elimination via Partial Control-flow Linearization_ 
-<a href="https://dl.acm.org/doi/10.1145/3594736?cid=99659884520" target="_blank"
+<a href="https://dl.acm.org/doi/10.1145/3594736?cid=99659884520" 
    class="fa-icon" title="TOPLAS Paper">
-   <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
+   <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
+         aria-hidden="true">
+    </span>
 </a>
 
 **[CTD]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
-<a href="https://sol.sbc.org.br/index.php/ctd/article/view/24856" target="_blank"
+<a href="https://sol.sbc.org.br/index.php/ctd/article/view/24856" 
     class="fa-icon" title="CTD">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
+    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
+          aria-hidden="true">
+    </span>
 </a>
 
 **[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
-<a href="/papers/ufmg-msc.pdf" target="_blank"
+<a href="/papers/ufmg-msc.pdf" 
     class="fa-icon" title="MSc Thesis">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
-</a> <a href="https://youtu.be/ZB5QoPhSaBU" target="_blank"
+    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
+          aria-hidden="true">
+    </span>
+</a> <a href="https://youtu.be/ZB5QoPhSaBU" 
     class="fa-icon" title="Presentation">
-    <span class="fab fa-youtube fa-lg fa-youtube-colored"></span>
+    <span class="fab fa-youtube fa-lg fa-youtube-colored"
+          aria-hidden="true">
+    </span>
 
 **[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Memory-Safe Elimination of Side Channels_ 
-<a href="/papers/cgo21-lif.pdf" target="_blank"
-    class="fa-icon" title="CGO 2021 Paper">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
-</a> <a href="https://youtu.be/k_EMQibQxas" target="_blank"
+<a href="/papers/cgo21-lif.pdf" class="fa-icon" title="CGO 2021 Paper">
+    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
+          aria-hidden="true">
+    </span>
+</a> <a href="https://youtu.be/k_EMQibQxas" 
     class="fa-icon" title="Presentation">
-    <span class="fab fa-youtube fa-lg fa-youtube-colored"></span>
+    <span class="fab fa-youtube fa-lg fa-youtube-colored"
+          aria-hidden="true">
+    </span>
 
 ---
 
@@ -90,9 +101,10 @@ of 1.3%, with the highest speedup being 3.4%.
 
 **[Bachelor's Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
 _Escape Analysis for Static Single Assignment Form_ 
-<a href="/papers/pucmg-escape.pdf" target="_blank"
-    class="fa-icon" title="Paper">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"></span>
+<a href="/papers/pucmg-escape.pdf" class="fa-icon" title="Paper">
+    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
+          aria-hidden="true">
+    </span>
 </a> 
 
 ---
