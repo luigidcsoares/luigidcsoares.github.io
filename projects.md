@@ -29,10 +29,10 @@ interpretation.
 ### Lif 
 <a href="https://github.com/lac-dcc/lif" target="_blank" 
     class="fa-icon" title="Source Code">
-    <span class="fab fa-github fa-lg fa-github-colored"></span>
+    <span class="fab fa-github fa-lg"></span>
 </a> <a href="http://cuda.dcc.ufmg.br/lif/" target="_blank" 
     class="fa-icon" title="Online Tool">
-    <span class="fas fa-tools fa-lg fa-tools-colored"></span>
+    <span class="fas fa-tools fa-lg"></span>
 </a> 
 
 A program is said to be isochronous if its running time does not depend on
