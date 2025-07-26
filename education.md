@@ -13,7 +13,8 @@ title: Education
 ---
 
 ### PhD in Computer Science (2022 ~ Now)
-**def institution(), do: "Federal University of Minas Gerais (UFMG)"**{: style="font-family: Courier New, Helvetica, monospace"}  
+**def institution(), 
+  do: "Federal University of Minas Gerais (UFMG)"**{: style="font-family: Courier New, Helvetica, monospace"}  
 **def where(), do: "Belo Horizonte, Minas Gerais - Brazil"**{: style="font-family: Courier New, Helvetica, monospace"}  
 **def advisor(), do: "Mário S. Alvim"**{: style="font-family: Courier New, Helvetica, monospace"}  
 
