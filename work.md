@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work Experiences
+mathjax: true
 ---
 
 ---
