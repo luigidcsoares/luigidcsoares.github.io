@@ -3,33 +3,41 @@ layout: page
 title: Education
 ---
 
+
 ---
 
 ### PhD in Computer Science (2023 ~ Now)
-**def institution(), do: "Macquarie University (MQU)"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def where(), do: "Sydney, New South Wales - Australia"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def advisor(), do: "Natasha Fernandes"**{: style="font-family: Courier New, Helvetica, monospace"}  
+<code>
+<strong>def</strong> institution(), <strong>do</strong>: "Macquarie University (MQU)"
+<strong>def</strong> where(), <strong>do</strong>: "Sydney, New South Wales - Australia"
+<strong>def</strong> advisor(), <strong>do</strong>: "Natasha Fernandes"
+</code>
 
 ---
 
 ### PhD in Computer Science (2022 ~ Now)
-**def institution(), 
-  do: "Federal University of Minas Gerais (UFMG)"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def where(), do: "Belo Horizonte, Minas Gerais - Brazil"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def advisor(), do: "Mário S. Alvim"**{: style="font-family: Courier New, Helvetica, monospace"}  
+<code>
+<strong>def</strong> institution(), <strong>do</strong>: "Federal University of Minas Gerais (UFMG)"
+<strong>def</strong> where(), <strong>do</strong>: "Belo Horizonte, Minas Gerais - Brazil"
+<strong>def</strong> advisor(), <strong>do</strong>: "Mário S. Alvim"
+</code>
 
 ---
 
 ### Master's Degree in Computer Science (2020 ~ 2022)
-**def institution(), do: "Federal University of Minas Gerais (UFMG)"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def where(), do: "Belo Horizonte, Minas Gerais - Brazil"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def advisor(), do: "Fernando M. Q. Pereira"**{: style="font-family: Courier New, Helvetica, monospace"}  
+<code>
+<strong>def</strong> institution(), <strong>do</strong>: "Federal University of Minas Gerais (UFMG)"
+<strong>def</strong> where(), <strong>do</strong>: "Belo Horizonte, Minas Gerais - Brazil"
+<strong>def</strong> advisor(), <strong>do</strong>: "Fernando M. Q. Pereira"
+</code>
 
 ---
 
 ### Bachelor's Degree in Computer Science (2016 ~ 2019)
-**def institution(), do: "Pontifical Catholic University of Minas Gerais (PUC Minas)"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def where(), do: "Belo Horizonte, Minas Gerais - Brazil"**{: style="font-family: Courier New, Helvetica, monospace"}  
-**def advisor(), do: "Luís Fabrício Wanderley Góes"**{: style="font-family: Courier New, Helvetica, monospace"}  
+<code>
+<strong>def</strong> institution(), <strong>do</strong>: "Pontifical Catholic University of Minas Gerais (PUC Minas)"
+<strong>def</strong> where(), <strong>do</strong>: "Belo Horizonte, Minas Gerais - Brazil"
+<strong>def</strong> advisor(), <strong>do</strong>: "Luís Fabrício Wanderley Góes"
+</code>
 
 ---
