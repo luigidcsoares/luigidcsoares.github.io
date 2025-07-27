@@ -33,6 +33,33 @@
   </li>
   {%- endif -%}
 
+  {%- if network[0] == "dblp" -%}
+  <li class="list-inline-item">
+    <a href="https://dblp.org/pid/{{ network[1] }}" class="fa-icon" title="dblp">
+      <span class="ai ai-dblp fa-lg" aria-hidden="true"></span>
+      <span class="sr-only">dblp</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "github" -%}
+  <li class="list-inline-item">
+    <a href="https://github.com/{{ network[1] }}" class="fa-icon" title="GitHub">
+      <span class="fa-brands fa-github fa-lg" aria-hidden="true"></span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "linkedin" -%}
+  <li class="list-inline-item">
+    <a href="https://linkedin.com/in/{{ network[1] }}" class="fa-icon" title="LinkedIn">
+      <span class="fa-brands fa-linkedin fa-lg" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li>
+  {%- endif -%}
+
   {%- if network[0] == "calendly" -%}
   <li class="list-inline-item">
     <a href="https://calendly.com/{{ network[1] }}" title="Schedule a meeting with me">
@@ -81,15 +108,6 @@
   </li>
   {%- endif -%}
 
-  {%- if network[0] == "github" -%}
-  <li class="list-inline-item">
-    <a href="https://github.com/{{ network[1] }}" class="fa-icon" title="GitHub">
-      <span class="fa-brands fa-github fa-lg" aria-hidden="true"></span>
-      <span class="sr-only">GitHub</span>
-   </a>
-  </li>
-  {%- endif -%}
-
   {%- if network[0] == "gitlab" -%}
   <li class="list-inline-item">
     <a href="https://gitlab.com/{{ network[1] }}" title="GitLab">
@@ -126,15 +144,6 @@
         <i class="fab fa-reddit fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Reddit</span>
-   </a>
-  </li>
-  {%- endif -%}
-
-  {%- if network[0] == "linkedin" -%}
-  <li class="list-inline-item">
-    <a href="https://linkedin.com/in/{{ network[1] }}" class="fa-icon" title="LinkedIn">
-      <span class="fa-brands fa-linkedin fa-lg" aria-hidden="true"></span>
-      <span class="sr-only">LinkedIn</span>
    </a>
   </li>
   {%- endif -%}
