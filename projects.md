@@ -30,8 +30,7 @@ and how much of it, to share via Open Banking;
       **type**: "Conference",
       **where**: "SBMF 2024",
       **title**: "Formal privacy analyses for open banking",
-      **links**: [[DOI](https://doi.org/10.1007/978-3-031-78116-2_11), [PDF](/papers/sbmf-2024_open-banking/manuscript.pdf)],
-      **errata**: [Click here](/papers/sbmf-2024_open-banking/errata/)
+      **links**: [[DOI](https://doi.org/10.1007/978-3-031-78116-2_11), [PDF](/papers/sbmf-2024_open-banking/manuscript.pdf), [Errata](/papers/sbmf-2024_open-banking/errata/)]
    }
 ]
 
