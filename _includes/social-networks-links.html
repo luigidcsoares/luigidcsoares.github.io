@@ -17,14 +17,18 @@
 
   {%- if network[0] == "email" -%}
   <li class="list-inline-item">
-    <a href="mailto:{{ network[1] }}" 
-       class="fa-icon" title="Email me">
-      <span class="fa-solid fa-envelope fa-lg"></span>
-      <!-- <span class="fa-stack fa-lg" aria-hidden="true"> -->
-      <!--   <i class="fas fa-circle fa-stack-2x"></i> -->
-      <!--   <i class="fas fa-envelope fa-stack-1x fa-inverse"></i> -->
-      <!-- </span> -->
+    <a href="mailto:{{ network[1] }}" class="fa-icon" title="Email me">
+      <span class="fa-solid fa-envelope fa-lg" aria-hidden="true"></span>
       <span class="sr-only">Email me</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "orcid" -%}
+  <li class="list-inline-item">
+    <a href="https://orcid.org/{{ network[1] }}" class="fa-icon" title="ORCiD">
+      <span class="ai ai-orcid fa-lg" aria-hidden="true"></span>
+      <span class="sr-only">ORCiD</span>
    </a>
   </li>
   {%- endif -%}
@@ -79,13 +83,8 @@
 
   {%- if network[0] == "github" -%}
   <li class="list-inline-item">
-    <a href="https://github.com/{{ network[1] }}" 
-       class="fa-icon" title="GitHub">
-      <span class="fa-brands fa-github fa-lg"></span>
-      <!-- <span class="fa-stack fa-lg" aria-hidden="true"> -->
-      <!--   <i class="fas fa-circle fa-stack-2x"></i> -->
-      <!--   <i class="fab fa-github fa-stack-1x fa-inverse"></i> -->
-      <!-- </span> -->
+    <a href="https://github.com/{{ network[1] }}" class="fa-icon" title="GitHub">
+      <span class="fa-brands fa-github fa-lg" aria-hidden="true"></span>
       <span class="sr-only">GitHub</span>
    </a>
   </li>
@@ -133,13 +132,8 @@
 
   {%- if network[0] == "linkedin" -%}
   <li class="list-inline-item">
-    <a href="https://linkedin.com/in/{{ network[1] }}" 
-       class="fa-icon" title="LinkedIn">
-      <span class="fa-brands fa-linkedin fa-lg"></span>
-      <!-- <span class="fa-stack fa-lg" aria-hidden="true"> -->
-      <!--   <i class="fas fa-circle fa-stack-2x"></i> -->
-      <!--   <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i> -->
-      <!-- </span> -->
+    <a href="https://linkedin.com/in/{{ network[1] }}" class="fa-icon" title="LinkedIn">
+      <span class="fa-brands fa-linkedin fa-lg" aria-hidden="true"></span>
       <span class="sr-only">LinkedIn</span>
    </a>
   </li>
