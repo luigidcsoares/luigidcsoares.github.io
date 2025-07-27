@@ -93,7 +93,7 @@ handle programs with unbounded loops and does not require runtime information.
    %{
       **type**: "MSc thesis",
       **title**: "Memory-safe elimination of side channels",
-      **links**: [[PDF](/papers/ufmg-msc.pdf)]
+      **links**: [[DOI](https://doi.org/1843/42564), [PDF](/papers/ufmg-msc.pdf)]
    },
    %{
       **type**: "Conference",
