@@ -12,7 +12,7 @@ title: Work experiences
    %{
       **title**: "Temporary lecturer: Software development II (DCC204)",
       **when**: "03/2023 ~ 12/2023",
-      **links**: [[Lecture notes (portuguese)](https://github.com/luigidcsoares/teaching-dcc204-pds2)]
+      **links**: [[Lecture notes (Portuguese)](https://github.com/luigidcsoares/teaching-dcc204-pds2)]
    },
    %{
       **title**: "Temporary lecturer: Computer programming (DCC001/DCC208)",
