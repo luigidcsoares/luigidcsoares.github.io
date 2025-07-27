@@ -5,6 +5,38 @@ title: Projects
 
 ---
 
+### Open banking
+
+The term “Open Banking” describes a series of global initiatives to allow the sharing of customer data between financial companies 
+to facilitate competition within their sector.
+In this project, we formalise in the rigorous framework of quantitative information flow (QIF)
+relevant privacy risks in a concrete Open Banking scenario, namely:
+(i) transaction-history recovery and (ii) collateral attribute-inferences using external correlations.
+We provide extensive analyses of these risks in real-world data from Open Banking, supplied by a fintech in Australia.
+We show that the Open Banking system studied presents considerable privacy risks with respect to transactions,
+both in the presence and in the absence of demographic data.
+Finally, we exemplify potential real-world collateral attribute-inference attacks,
+in which we show how an attacker might leverage scientific correlations 
+to infer individuals’ level of neuroticism and self-control from their transaction history.
+We hope that this work may: 
+(i) help financial customers in Australia make better-informed decisions about what kind of information, 
+and how much of it, to share via Open Banking;
+(ii) raise awareness about the potential privacy risks of Open Banking in other countries; and
+(iii) foster the development of privacy regulation in digital finance and the open data economy.
+
+{: style="white-space: pre-wrap;"}
+**def** publication_list(), **do**: [
+   %{
+      **type**: "Conference",
+      **where**: "SBMF 2024",
+      **title**: "Formal privacy analyses for open banking",
+      **links**: [[DOI](https://doi.org/10.1007/978-3-031-78116-2_11), [PDF](/papers/sbmf-2024_open-banking/manuscript.pdf)],
+      **errata**: [Click here](/papers/sbmf-2024_open-banking/errata/)
+   }
+]
+
+---
+
 ### QIF - Operational Significance
 
 There are emerging needs in quantitative theories of information flow
@@ -67,7 +99,7 @@ handle programs with unbounded loops and does not require runtime information.
       **type**: "Conference",
       **where**: "CGO 2021",
       **title**: "Memory-safe elimination of side channels",
-      **links**: [[PDF](/papers/cgo21-lif.pdf), [Talk](https://youtu.be/k_EMQibQxas)]
+      **links**: [[DOI](https://doi.org/10.1109/CGO51591.2021.9370305), [PDF](/papers/cgo21-lif.pdf), [Talk](https://youtu.be/k_EMQibQxas)]
    }
 ]
 
