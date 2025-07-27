@@ -5,6 +5,22 @@ title: Work experiences
 
 ---
 
+### Macquarie University
+
+{: style="white-space: pre-wrap;"}
+**def** job_list(), **do**: [
+   %{
+      **title**: "Sessional teaching staff: Secure app development (COMP3310)",
+      **when**: "02/2025 ~ 06/2025"
+   },
+   %{
+      **title**: "Sessional teaching staff: Data privacy (COMP3300)",
+      **when**: "07/2024 ~ 11/2024"
+   }
+]
+
+---
+
 ### UFMG
 
 {: style="white-space: pre-wrap;"}
