@@ -5,12 +5,9 @@ subtitle: Hi there,
 ---
 
 
-I'm a cotutelle PhD candidate in Computer Science @
-[UFMG](https://ppgcc.dcc.ufmg.br) and [Macquarie
-University](https://www.mq.edu.au/), under the supervision of professors
-[Mário S. Alvim](https://homepages.dcc.ufmg.br/~msalvim/) and [Natasha
-Fernandes](https://researchers.mq.edu.au/en/persons/natasha-fernandes).
-We're part of the [Topete](https://topete.science) group. My interests
-are primarily related to Programming Languages and Quantitative
-Information Flow. Currently in love with
-[Elixir](https://elixir-lang.org/) <3
+I'm a cotutelle PhD candidate in Computer Science @ [UFMG](https://ppgcc.dcc.ufmg.br) and [Macquarie University](https://www.mq.edu.au/),
+under the supervision of professors [Mário S. Alvim](https://homepages.dcc.ufmg.br/~msalvim/) and [Natasha Fernandes](https://researchers.mq.edu.au/en/persons/natasha-fernandes).
+We're part of the [Topete](https://topete.science) group. 
+My interests are primarily related to Programming Languages, Quantitative
+Information Flow, Privacy and Security.
+Currently in love with [Elixir](https://elixir-lang.org/) <3
