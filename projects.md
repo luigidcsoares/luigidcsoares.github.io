@@ -44,48 +44,33 @@ divergent branches, to the context of side-channel resistance. We developed a
 prototype on top of LLVM. Lif extends previous work in non-trivial ways: it can
 handle programs with unbounded loops and does not require runtime information.
 
-**[TOPLAS]**{: style="font-family: Courier New, Helvetica, monospace"}  
-_Side-channel Elimination via Partial Control-flow Linearization_ 
-<a href="https://dl.acm.org/doi/10.1145/3594736?cid=99659884520" 
-   class="fa-icon" title="TOPLAS Paper">
-   <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
-         aria-hidden="true">
-    </span>
-</a>
+{: style="white-space: pre-wrap;"}
+**def** publication_list(), **do**: [
+   %{
+      **type**: "Journal",
+      **where**: "TOPLAS",
+      **title**: "Side-channel elimination via partial control-flow linearization",
+      **links**: [[DOI](https://doi.org/10.1145/3594736?cid=99659884520)]
+   },
+   %{
+      **type**: "Conference (extended abstract)",
+      **where**: "CTD",
+      **title**: "Memory-safe elimination of side channels",
+      **links**: [[DOI](https://doi.org/10.5753/ctd.2023.229445)]
+   },
+   %{
+      **type**: "MSc thesis",
+      **title**: "Memory-safe elimination of side channels",
+      **links**: [[PDF](/papers/ufmg-msc.pdf)]
+   },
+   %{
+      **type**: "Conference",
+      **where**: "CGO 2021",
+      **title**: "Memory-safe elimination of side channels",
+      **links**: [[PDF](/papers/cgo21-lif.pdf), [Talk](https://youtu.be/k_EMQibQxas)]
+   }
+]
 
-**[CTD]**{: style="font-family: Courier New, Helvetica, monospace"}  
-_Memory-Safe Elimination of Side Channels_ 
-<a href="https://sol.sbc.org.br/index.php/ctd/article/view/24856" 
-    class="fa-icon" title="CTD">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
-          aria-hidden="true">
-    </span>
-</a>
-
-**[MSc Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
-_Memory-Safe Elimination of Side Channels_ 
-<a href="/papers/ufmg-msc.pdf" 
-    class="fa-icon" title="MSc Thesis">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
-          aria-hidden="true">
-    </span>
-</a> <a href="https://youtu.be/ZB5QoPhSaBU" 
-    class="fa-icon" title="Presentation">
-    <span class="fab fa-youtube fa-lg fa-youtube-colored"
-          aria-hidden="true">
-    </span>
-
-**[CGO 2021]**{: style="font-family: Courier New, Helvetica, monospace"}  
-_Memory-Safe Elimination of Side Channels_ 
-<a href="/papers/cgo21-lif.pdf" class="fa-icon" title="CGO 2021 Paper">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
-          aria-hidden="true">
-    </span>
-</a> <a href="https://youtu.be/k_EMQibQxas" 
-    class="fa-icon" title="Presentation">
-    <span class="fab fa-youtube fa-lg fa-youtube-colored"
-          aria-hidden="true">
-    </span>
 
 ---
 
@@ -99,12 +84,13 @@ representation, as an extension of Go’s existing Escape Analysis.  We tested o
 implementation against four real benchmarks and we obtained an average speedup
 of 1.3%, with the highest speedup being 3.4%.
 
-**[Bachelor's Thesis]**{: style="font-family: Courier New, Helvetica, monospace"}  
-_Escape Analysis for Static Single Assignment Form_ 
-<a href="/papers/pucmg-escape.pdf" class="fa-icon" title="Paper">
-    <span class="fas fa-file-pdf fa-lg fa-pdf-colored"
-          aria-hidden="true">
-    </span>
-</a> 
+{: style="white-space: pre-wrap;"}
+**def** publication_list(), **do**: [
+   %{
+      **type**: "BSc thesis",
+      **title**: "Escape analysis for static single assignment form",
+      **links**: [[PDF](/papers/pucmg-escape.pdf)]
+   }
+]
 
 ---
