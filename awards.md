@@ -29,7 +29,7 @@ title: Awards
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **what**: "The Open Banking project has been awarded with a 3-years grant by the Australian Research Council (ARC)",
 
-{:.code .join-top .join-bottom}
+{:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2025 ~ 2028",
 
 {:.code .wrap-indent .join-top .join-bottom}
@@ -42,39 +42,49 @@ title: Awards
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **what**: "PhD: International Cotutelle Macquarie University Research Excellence Scholarship (Cotutelle iMQRES)",
 
-{:.code .join-top .join-bottom}
+{:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2023 ~ Now"
+
+{:.code .join-top .join-bottom}
 &nbsp;  },
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **what**: "PhD: National Council for Scientific and Technological Development (CNPq) scholarship",
 
-{:.code .join-top .join-bottom}
+{:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2022 ~ Now"
 &nbsp;  },
+
+{:.code .join-top .join-bottom}
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **what**: "MSc: National Council for Scientific and Technological Development (CNPq) scholarship",
 
-{:.code .join-top .join-bottom}
+{:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2020 ~ 2022"
 &nbsp;  },
+
+{:.code .join-top .join-bottom}
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **what**: "MSc thesis among the best 10 in Computer Science in Brazil (CTD, SBC).",
 
-{:.code .join-top .join-bottom}
+{:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2023"
 &nbsp;  },
+
+{:.code .join-top .join-bottom}
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **what**: "2nd overall average grade in the undergraduate class (silver medal).",
 
-{:.code .join-top}
+{:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2019"
+
+{:.code .join-top}
 &nbsp;  }
 ]
