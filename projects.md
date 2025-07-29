@@ -168,6 +168,7 @@ of 1.3%, with the highest speedup being 3.4%.
 
 {:.code .join-top .join-bottom}
 &nbsp;   **links**: [[PDF](/papers/pucmg-escape.pdf)]
+
 {:.code .join-top}
 &nbsp; }
 ]
