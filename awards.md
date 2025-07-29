@@ -70,7 +70,7 @@ title: Awards
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **what**: "MSc thesis among the best 10 in Computer Science in Brazil (CTD, SBC).",
+&nbsp;    **what**: "MSc thesis among the best 10 in Computer Science in Brazil (CTD, SBC)",
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2023"
@@ -80,7 +80,7 @@ title: Awards
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **what**: "2nd overall average grade in the undergraduate class (silver medal).",
+&nbsp;    **what**: "2nd overall average grade in the undergraduate class (silver medal)",
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2019"
