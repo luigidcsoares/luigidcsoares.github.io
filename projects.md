@@ -47,7 +47,8 @@ and how much of it, to share via Open Banking;
 **def** publication_list(), **do**: [
 &nbsp; %{
 &nbsp;   **type**: "Conference",
-&nbsp;   **where**: "SBMF 2024",
+&nbsp;   **where**: "SBMF",
+&nbsp;   **when**: "2024",
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;   **title**: "Formal privacy analyses for open banking",
@@ -105,6 +106,7 @@ handle programs with unbounded loops and does not require runtime information.
 &nbsp; %{
 &nbsp;   **type**: "Journal",
 &nbsp;   **where**: "TOPLAS",
+&nbsp;   **when**: "2023",
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;   **title**: "Side-channel elimination via partial control-flow linearization",
@@ -115,6 +117,7 @@ handle programs with unbounded loops and does not require runtime information.
 &nbsp; %{
 &nbsp;   **type**: "Conference (extended abstract)",
 &nbsp;   **where**: "CTD",
+&nbsp;   **when**: "2023",
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;   **title**: "Memory-safe elimination of side channels",
@@ -124,6 +127,7 @@ handle programs with unbounded loops and does not require runtime information.
 &nbsp; },
 &nbsp; %{
 &nbsp;   **type**: "MSc thesis",
+&nbsp;   **when**: "2022",
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;   **title**: "Memory-safe elimination of side channels",
@@ -133,7 +137,8 @@ handle programs with unbounded loops and does not require runtime information.
 &nbsp; },
 &nbsp; %{
 &nbsp;   **type**: "Conference",
-&nbsp;   **where**: "CGO 2021",
+&nbsp;   **where**: "CGO",
+&nbsp;   **when**: "2021",
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;   **title**: "Memory-safe elimination of side channels",
