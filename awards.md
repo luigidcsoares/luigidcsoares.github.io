@@ -54,9 +54,9 @@ title: Awards
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2022 ~ Now"
-&nbsp;  },
 
 {:.code .join-top .join-bottom}
+&nbsp;  },
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
@@ -64,9 +64,9 @@ title: Awards
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2020 ~ 2022"
-&nbsp;  },
 
 {:.code .join-top .join-bottom}
+&nbsp;  },
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
@@ -74,9 +74,9 @@ title: Awards
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "2023"
-&nbsp;  },
 
 {:.code .join-top .join-bottom}
+&nbsp;  },
 &nbsp;  %{
 
 {:.code .wrap-indent .join-top .join-bottom}
