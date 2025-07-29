@@ -5,60 +5,120 @@ title: Work experiences
 
 ---
 
+<style>
+  .code {
+    white-space: pre-wrap;
+  }
+
+  .code.wrap-indent {
+    text-indent: -5rem;
+    padding-left: 5rem;
+  }
+
+  .join-top {
+    margin-top: 0;
+  }
+
+  .join-bottom {
+    margin-bottom: 0;
+  }
+</style>
+
+
 ### Macquarie University
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** job_list(), **do**: [
-   %{
-      **title**: "Sessional teaching staff: Secure app development (COMP3310)",
-      **when**: "02/2025 ~ 06/2025"
-   },
-   %{
-      **title**: "Sessional teaching staff: Data privacy (COMP3300)",
-      **when**: "07/2024 ~ 11/2024"
-   }
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Sessional teaching staff: Secure app development (COMP3310)",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "02/2025 ~ 06/2025"
+&nbsp;  },
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Sessional teaching staff: Data privacy (COMP3300)",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "07/2024 ~ 11/2024"
+
+{:.code .join-top}
+&nbsp;  }
 ]
 
 ---
 
 ### UFMG
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** job_list(), **do**: [
-   %{
-      **title**: "Temporary lecturer: Software development II (DCC204)",
-      **when**: "03/2023 ~ 12/2023",
-      **links**: [[Lecture notes (Portuguese)](https://github.com/luigidcsoares/teaching-dcc204-pds2)]
-   },
-   %{
-      **title**: "Temporary lecturer: Computer programming (DCC001/DCC208)",
-      **when**: "07/2022 ~ 07/2023"
-   },
-   %{
-      **title**: "Temporary lecturer: Software development I (DCC203)",
-      **when**: "07/2022 ~ 12/2022"
-   }
-   %{
-      **title**: "Teaching assistant: Writing programs in Python",
-      **when**: "11/2021",
-      **links**: [[Webpage](http://curso-python.dcc.ufmg.br/)]
-   }
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Temporary lecturer: Software development II (DCC204)",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "03/2023 ~ 12/2023",
+&nbsp;    **links**: [[Lecture notes (Portuguese)](https://github.com/luigidcsoares/teaching-dcc204-pds2)]
+&nbsp;  },
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Temporary lecturer: Computer programming (DCC001/DCC208)",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "07/2022 ~ 07/2023"
+&nbsp;  },
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Temporary lecturer: Software development I (DCC203)",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "07/2022 ~ 12/2022"
+&nbsp;  }
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Teaching assistant: Writing programs in Python",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "11/2021",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **links**: [[Webpage](http://curso-python.dcc.ufmg.br/)]
+
+{:.code .join-top}
+&nbsp;  }
 ]
 
 ---
 
 ### Letras.mus.br
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** job_list(), **do**: [
-   %{
-      **title**: "Backend developer",
-      **when**: "01/2020 ~ 02/2020"
-   },
-   %{
-      **title**: "Backend developer (intern)",
-      **when**: "07/2019 ~ 12/2019"
-   }
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Backend developer",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "01/2020 ~ 02/2020"
+&nbsp;  },
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Backend developer (intern)",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "07/2019 ~ 12/2019"
+
+{:.code .join-top}
+&nbsp;  }
 ]
 
 
@@ -66,24 +126,36 @@ title: Work experiences
 
 ### PUC-MG
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** job_list(), **do**: [
-   %{
-      **title**: "Teaching assistant: Algorithms for engineering",
-      **when**: "02/2018 ~ 07/2018"
-   }
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Teaching assistant: Algorithms for engineering",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "02/2018 ~ 07/2018"
+
+{:.code .join-top}
+&nbsp;  }
 ]
 
 ---
 
 ### Codificar
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** job_list(), **do**: [
-   %{
-      **title**: "Software developer (intern)",
-      **when**: "07/2017 ~ 01/2018"
-   }
+&nbsp;  %{
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Software developer (intern)",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **when**: "07/2017 ~ 01/2018"
+
+{:.code .join-top}
+&nbsp;  }
 ]
 
 ---
