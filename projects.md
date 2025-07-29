@@ -3,6 +3,25 @@ layout: page
 title: Projects
 ---
 
+<style>
+  .code {
+    white-space: pre-wrap;
+  }
+
+  .code.wrap-indent {
+    text-indent: -5rem;
+    padding-left: 5rem;
+  }
+
+  .join-top {
+    margin-top: 0;
+  }
+
+  .join-bottom {
+    margin-bottom: 0;
+  }
+</style>
+
 ---
 
 ### Open banking
@@ -24,14 +43,20 @@ and how much of it, to share via Open Banking;
 (ii) raise awareness about the potential privacy risks of Open Banking in other countries; and
 (iii) foster the development of privacy regulation in digital finance and the open data economy.
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** publication_list(), **do**: [
-   %{
-      **type**: "Conference",
-      **where**: "SBMF 2024",
-      **title**: "Formal privacy analyses for open banking",
-      **links**: [[DOI](https://doi.org/10.1007/978-3-031-78116-2_11), [PDF](/papers/sbmf-2024_open-banking/manuscript.pdf), [Errata](/papers/sbmf-2024_open-banking/errata/)]
-   }
+&nbsp;  %{
+&nbsp;    **type**: "Conference",
+&nbsp;    **where**: "SBMF 2024",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Formal privacy analyses for open banking",
+
+{:.code .join-top .join-bottom}
+&nbsp;    **links**: [[DOI](https://doi.org/10.1007/978-3-031-78116-2_11), [PDF](/papers/sbmf-2024_open-banking/manuscript.pdf), [Errata](/papers/sbmf-2024_open-banking/errata/)]
+
+{:.code .join-top}
+&nbsp;  }
 ]
 
 ---
@@ -75,31 +100,49 @@ divergent branches, to the context of side-channel resistance. We developed a
 prototype on top of LLVM. Lif extends previous work in non-trivial ways: it can
 handle programs with unbounded loops and does not require runtime information.
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** publication_list(), **do**: [
-   %{
-      **type**: "Journal",
-      **where**: "TOPLAS",
-      **title**: "Side-channel elimination via partial control-flow linearization",
-      **links**: [[DOI](https://doi.org/10.1145/3594736?cid=99659884520)]
-   },
-   %{
-      **type**: "Conference (extended abstract)",
-      **where**: "CTD",
-      **title**: "Memory-safe elimination of side channels",
-      **links**: [[DOI](https://doi.org/10.5753/ctd.2023.229445)]
-   },
-   %{
-      **type**: "MSc thesis",
-      **title**: "Memory-safe elimination of side channels",
-      **links**: [[DOI](https://doi.org/1843/42564), [PDF](/papers/ufmg-msc.pdf)]
-   },
-   %{
-      **type**: "Conference",
-      **where**: "CGO 2021",
-      **title**: "Memory-safe elimination of side channels",
-      **links**: [[DOI](https://doi.org/10.1109/CGO51591.2021.9370305), [PDF](/papers/cgo21-lif.pdf), [Talk](https://youtu.be/k_EMQibQxas)]
-   }
+&nbsp;  %{
+&nbsp;    **type**: "Journal",
+&nbsp;    **where**: "TOPLAS",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Side-channel elimination via partial control-flow linearization",
+
+{:.code .join-top .join-bottom}
+&nbsp;    **links**: [[DOI](https://doi.org/10.1145/3594736?cid=99659884520)]
+&nbsp;  },
+&nbsp;  %{
+&nbsp;    **type**: "Conference (extended abstract)",
+&nbsp;    **where**: "CTD",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Memory-safe elimination of side channels",
+
+{:.code .join-top .join-bottom}
+&nbsp;    **links**: [[DOI](https://doi.org/10.5753/ctd.2023.229445)]
+&nbsp;  },
+&nbsp;  %{
+&nbsp;    **type**: "MSc thesis",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Memory-safe elimination of side channels",
+
+{:.code .join-top .join-bottom}
+&nbsp;    **links**: [[DOI](https://doi.org/1843/42564), [PDF](/papers/ufmg-msc.pdf)]
+&nbsp;  },
+&nbsp;  %{
+&nbsp;    **type**: "Conference",
+&nbsp;    **where**: "CGO 2021",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Memory-safe elimination of side channels",
+
+{:.code .join-top .join-bottom}
+&nbsp;    **links**: [[DOI](https://doi.org/10.1109/CGO51591.2021.9370305), [PDF](/papers/cgo21-lif.pdf), [Talk](https://youtu.be/k_EMQibQxas)]
+
+{:.code .join-top}
+&nbsp;  }
 ]
 
 
@@ -115,13 +158,18 @@ representation, as an extension of Go’s existing Escape Analysis.  We tested o
 implementation against four real benchmarks and we obtained an average speedup
 of 1.3%, with the highest speedup being 3.4%.
 
-{: style="white-space: pre-wrap;"}
+{:.code .join-bottom}
 **def** publication_list(), **do**: [
-   %{
-      **type**: "BSc thesis",
-      **title**: "Escape analysis for static single assignment form",
-      **links**: [[PDF](/papers/pucmg-escape.pdf)]
-   }
+&nbsp;  %{
+&nbsp;    **type**: "BSc thesis",
+
+{:.code .wrap-indent .join-top .join-bottom}
+&nbsp;    **title**: "Escape analysis for static single assignment form",
+
+{:.code .join-top .join-bottom}
+&nbsp;    **links**: [[PDF](/papers/pucmg-escape.pdf)]
+{:.code .join-top}
+&nbsp;  }
 ]
 
 ---
