@@ -36,6 +36,8 @@ title: Work experiences
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "02/2025 ~ 06/2025"
+
+{:.code .join-top .join-bottom}
 &nbsp;  },
 &nbsp;  %{
 
@@ -62,7 +64,11 @@ title: Work experiences
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "03/2023 ~ 12/2023",
+
+{:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **links**: [[Lecture notes (Portuguese)](https://github.com/luigidcsoares/teaching-dcc204-pds2)]
+
+{:.code .join-top .join-bottom}
 &nbsp;  },
 &nbsp;  %{
 
@@ -71,6 +77,8 @@ title: Work experiences
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "07/2022 ~ 07/2023"
+
+{:.code .join-top .join-bottom}
 &nbsp;  },
 &nbsp;  %{
 
@@ -79,6 +87,8 @@ title: Work experiences
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "07/2022 ~ 12/2022"
+
+{:.code .join-top .join-bottom}
 &nbsp;  }
 &nbsp;  %{
 
@@ -108,6 +118,8 @@ title: Work experiences
 
 {:.code .wrap-indent .join-top .join-bottom}
 &nbsp;    **when**: "01/2020 ~ 02/2020"
+
+{:.code .join-top .join-bottom}
 &nbsp;  },
 &nbsp;  %{
 
