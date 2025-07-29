@@ -45,18 +45,18 @@ and how much of it, to share via Open Banking;
 
 {:.code .join-bottom}
 **def** publication_list(), **do**: [
-&nbsp;  %{
-&nbsp;    **type**: "Conference",
-&nbsp;    **where**: "SBMF 2024",
+&nbsp; %{
+&nbsp;   **type**: "Conference",
+&nbsp;   **where**: "SBMF 2024",
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **title**: "Formal privacy analyses for open banking",
+&nbsp;   **title**: "Formal privacy analyses for open banking",
 
 {:.code .join-top .join-bottom}
-&nbsp;    **links**: [[DOI](https://doi.org/10.1007/978-3-031-78116-2_11), [PDF](/papers/sbmf-2024_open-banking/manuscript.pdf), [Errata](/papers/sbmf-2024_open-banking/errata/)]
+&nbsp;   **links**: [[DOI](https://doi.org/10.1007/978-3-031-78116-2_11), [PDF](/papers/sbmf-2024_open-banking/manuscript.pdf), [Errata](/papers/sbmf-2024_open-banking/errata/)]
 
 {:.code .join-top}
-&nbsp;  }
+&nbsp; }
 ]
 
 ---
@@ -102,47 +102,47 @@ handle programs with unbounded loops and does not require runtime information.
 
 {:.code .join-bottom}
 **def** publication_list(), **do**: [
-&nbsp;  %{
-&nbsp;    **type**: "Journal",
-&nbsp;    **where**: "TOPLAS",
+&nbsp; %{
+&nbsp;   **type**: "Journal",
+&nbsp;   **where**: "TOPLAS",
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **title**: "Side-channel elimination via partial control-flow linearization",
+&nbsp;   **title**: "Side-channel elimination via partial control-flow linearization",
 
 {:.code .join-top .join-bottom}
-&nbsp;    **links**: [[DOI](https://doi.org/10.1145/3594736?cid=99659884520)]
-&nbsp;  },
-&nbsp;  %{
-&nbsp;    **type**: "Conference (extended abstract)",
-&nbsp;    **where**: "CTD",
+&nbsp;   **links**: [[DOI](https://doi.org/10.1145/3594736?cid=99659884520)]
+&nbsp; },
+&nbsp; %{
+&nbsp;   **type**: "Conference (extended abstract)",
+&nbsp;   **where**: "CTD",
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **title**: "Memory-safe elimination of side channels",
+&nbsp;   **title**: "Memory-safe elimination of side channels",
 
 {:.code .join-top .join-bottom}
-&nbsp;    **links**: [[DOI](https://doi.org/10.5753/ctd.2023.229445)]
-&nbsp;  },
-&nbsp;  %{
-&nbsp;    **type**: "MSc thesis",
+&nbsp;   **links**: [[DOI](https://doi.org/10.5753/ctd.2023.229445)]
+&nbsp; },
+&nbsp; %{
+&nbsp;   **type**: "MSc thesis",
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **title**: "Memory-safe elimination of side channels",
+&nbsp;   **title**: "Memory-safe elimination of side channels",
 
 {:.code .join-top .join-bottom}
-&nbsp;    **links**: [[DOI](https://doi.org/1843/42564), [PDF](/papers/ufmg-msc.pdf)]
-&nbsp;  },
-&nbsp;  %{
-&nbsp;    **type**: "Conference",
-&nbsp;    **where**: "CGO 2021",
+&nbsp;   **links**: [[DOI](https://doi.org/1843/42564), [PDF](/papers/ufmg-msc.pdf)]
+&nbsp; },
+&nbsp; %{
+&nbsp;   **type**: "Conference",
+&nbsp;   **where**: "CGO 2021",
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **title**: "Memory-safe elimination of side channels",
+&nbsp;   **title**: "Memory-safe elimination of side channels",
 
 {:.code .join-top .join-bottom}
-&nbsp;    **links**: [[DOI](https://doi.org/10.1109/CGO51591.2021.9370305), [PDF](/papers/cgo21-lif.pdf), [Talk](https://youtu.be/k_EMQibQxas)]
+&nbsp;   **links**: [[DOI](https://doi.org/10.1109/CGO51591.2021.9370305), [PDF](/papers/cgo21-lif.pdf), [Talk](https://youtu.be/k_EMQibQxas)]
 
 {:.code .join-top}
-&nbsp;  }
+&nbsp; }
 ]
 
 
@@ -160,16 +160,16 @@ of 1.3%, with the highest speedup being 3.4%.
 
 {:.code .join-bottom}
 **def** publication_list(), **do**: [
-&nbsp;  %{
-&nbsp;    **type**: "BSc thesis",
+&nbsp; %{
+&nbsp;   **type**: "BSc thesis",
 
 {:.code .wrap-indent .join-top .join-bottom}
-&nbsp;    **title**: "Escape analysis for static single assignment form",
+&nbsp;   **title**: "Escape analysis for static single assignment form",
 
 {:.code .join-top .join-bottom}
-&nbsp;    **links**: [[PDF](/papers/pucmg-escape.pdf)]
+&nbsp;   **links**: [[PDF](/papers/pucmg-escape.pdf)]
 {:.code .join-top}
-&nbsp;  }
+&nbsp; }
 ]
 
 ---
