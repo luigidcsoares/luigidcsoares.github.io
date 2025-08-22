@@ -59,7 +59,7 @@ This is a list of typos and other issues found in the paper:
     &nbsp; **until** pearson(Z, X) * target_sign ≤ |target_pcorr| + ε
     &nbsp; n ⟵ |Z|
     &nbsp; // Finally, iteratively sort data at random
-    &nbsp; **while** |pearson(Z, X) - target_pcorr| > e **do**
+    &nbsp; **while** |pearson(Z, X) - target_pcorr| > ε **do**
     &nbsp;   **repeat**
     &nbsp;     indices ⟵ choose n indices at random
     &nbsp;     sort_dir ⟵ ascending **if** target_pcorr ≥ **else** descending
