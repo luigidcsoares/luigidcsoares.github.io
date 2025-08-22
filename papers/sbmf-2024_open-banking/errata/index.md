@@ -31,9 +31,9 @@ This is a list of typos and other issues found in the paper:
 * Page 22: On Table 7,
   - The caption should read "when demographic data is **not** available".
   - The number of randomly constructed joints is 30, not 1000.
-  - The confidence interval for (Neuroticism, a_tot) should be \[−0.1016, −0.1015\]*
-  - The confidence interval for (Neuroticism, a_avg) should be \[-0.1273, -0.1272\]*
-  - The confidence interval for (Self-control, a_avg) should be \[+0.1351, +0.1352\]∗
+  - The confidence interval for (Neuroticism, a_tot) should be \[−0.1016, −0.1015\]*.
+  - The confidence interval for (Neuroticism, a_avg) should be \[-0.1273, -0.1272\]*.
+  - The confidence interval for (Self-control, a_avg) should be \[+0.1351, +0.1352\]*.
   - Yep, I copied the wrong table... but these numbers don't impact results.  
 
 * Page 23: Algorithm 1 has a bug: if the result of shuffling X and Z
