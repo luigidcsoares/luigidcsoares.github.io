@@ -33,7 +33,7 @@ This is a list of typos and other issues found in the paper:
   - The confidence interval for (Neuroticism, a_tot) should be \[−0.1016, −0.1015\]*
   - The confidence interval for (Neuroticism, a_avg) should be \[-0.1273, -0.1272\]*
   - The confidence interval for (Self-control, a_avg) should be \[+0.1351, +0.1352\]∗
-  - Yep, I copied from the wrong table... but these numbers do not impact results.  
+  - Yep, I copied the wrong table... but these numbers don't impact results.  
 
 * Page 23: Algorithm 1 has a bug: if the result of shuffling X and Z
     yields a Pearson correlation that is larger (or smaller, if negative) than the target,
