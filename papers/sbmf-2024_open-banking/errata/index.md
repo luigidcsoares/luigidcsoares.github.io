@@ -63,7 +63,7 @@ This is a list of typos and other issues found in the paper:
     &nbsp;   **repeat**
     &nbsp;     indices ⟵ choose n indices at random
     &nbsp;     sort_dir ⟵ ascending **if** target_pcorr ≥ **else** descending
-    &nbsp;     Z' ⟵ Z, with Z\[indices\] sorted according to sort_di
+    &nbsp;     Z' ⟵ Z, with Z\[indices\] sorted according to sort_dir
     &nbsp;     X' ⟵ X, with X\[indices\] sorted in ascending order
     &nbsp;     retry ⟵ pearson(Z', X') * target_sign > |target_pcorr| + ε
     &nbsp;     n ⟵ ⌈n / 2⌉ **only if** retry is true
