@@ -41,34 +41,34 @@ This is a list of typos and other issues found in the paper:
     Here is an updated algorithm with a fix to this bug:
 
     {:.code}
-    **function** generate_joint(Z, X, target_pcorr, epsilon)
+    **function** generate_joint(Z, X, target_pcorr, ε)
     &nbsp; // First, update target if original target is unreachable
     &nbsp; **if** target_pcorr = 0 **then**
-    &nbsp;   target_sign <- 1
-    &nbsp;   target pcorr <- min(target_pcorr, pearson_upper_limit(Z, X))
+    &nbsp;   target_sign ⟵  1
+    &nbsp;   target pcorr ⟵  min(target_pcorr, pearson_upper_limit(Z, X))
     &nbsp; **else**
-    &nbsp;   target_sign <- -1
-    &nbsp;   target pcorr <- min(target_pcorr, pearson_lower_limit(Z, X))
+    &nbsp;   target_sign ⟵  -1
+    &nbsp;   target pcorr ⟵  min(target_pcorr, pearson_lower_limit(Z, X))
     &nbsp; **end if**
     &nbsp; // Then, shuffle data to get an initial joint, making sure that
     &nbsp; // the pearson correlation does not go past the target
-    &nbsp;  *repeat*
-    &nbsp;   Z <- shuffle Z
-    &nbsp;   X <- shuffle X
-    &nbsp; **until** pearson(Z, X) * target_sign <= |target_pcorr| + epsilon
-    &nbsp; n <- |Z|
+    &nbsp;  **repeat**
+    &nbsp;   Z ⟵  shuffle Z
+    &nbsp;   X ⟵  shuffle X
+    &nbsp; **until** pearson(Z, X) * target_sign ≤ |target_pcorr| + ε
+    &nbsp; n ⟵  |Z|
     &nbsp; // Finally, iteratively sort data at random
     &nbsp; **while** |pearson(Z, X) - target_pcorr| > e **do**
     &nbsp;   **repeat**
-    &nbsp;     indices <- choose n indices at random
-    &nbsp;     sort_dir <- ascending **if** target_pcorr >= **else** descending
-    &nbsp;     Z' <- Z, with Z\[indices\] sorted according to sort_di
-    &nbsp;     X' <- X, with X\[indices\] sorted in ascending order
-    &nbsp;     retry <- pearson(Z', X') * target_sign > |target_pcorr| + epsilon
-    &nbsp;     n <- ceil(n / 2) **only if** retry is true
+    &nbsp;     indices ⟵  choose n indices at random
+    &nbsp;     sort_dir ⟵  ascending **if** target_pcorr ≥ **else** descending
+    &nbsp;     Z' ⟵  Z, with Z\[indices\] sorted according to sort_di
+    &nbsp;     X' ⟵  X, with X\[indices\] sorted in ascending order
+    &nbsp;     retry ⟵  pearson(Z', X') * target_sign > |target_pcorr| + ε
+    &nbsp;     n ⟵  ⌈n / 2⌉ **only if** retry is true
     &nbsp;   **until** retry is false
-    &nbsp;   Z <- Z'
-    &nbsp;   X <- X'
+    &nbsp;   Z ⟵  Z'
+    &nbsp;   X ⟵  X'
     &nbsp; **end while**
     &nbsp; **return** (Z,X)
     **end function**
