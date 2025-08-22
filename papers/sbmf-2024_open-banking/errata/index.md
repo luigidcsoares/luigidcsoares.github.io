@@ -49,7 +49,7 @@ This is a list of typos and other issues found in the paper:
     &nbsp;   target pcorr ⟵ min(target_pcorr, pearson_upper_limit(Z, X))
     &nbsp; **else**
     &nbsp;   target_sign ⟵ -1
-    &nbsp;   target pcorr ⟵ min(target_pcorr, pearson_lower_limit(Z, X))
+    &nbsp;   target pcorr ⟵ max(target_pcorr, pearson_lower_limit(Z, X))
     &nbsp; **end if**
     &nbsp; // Then, shuffle data to get an initial joint, making sure that
     &nbsp; // the pearson correlation does not go past the target
