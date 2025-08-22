@@ -25,7 +25,8 @@ subtitle: Formal privacy analyses for open banking (SBMF 2024)
 
 This is a list of typos and other issues found in the paper:
 
-* Page 14: The posterior probability of "High" given "Uber" should be 2/7, so that the column adds up to one.  
+* Page 14: The posterior probability of "High" given "Uber" should be 2/7, so that the column adds up to one
+    (i.e., it is a valid probability distribution).  
 
 * Page 22: On Table 7,
   - The caption should read "when demographic data is **not** available".
